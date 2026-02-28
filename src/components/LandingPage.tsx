@@ -52,9 +52,26 @@ const tasks = [
 ];
 
 const NAMES = [
-  'Amara', 'James', 'Fatima', 'Alex', 'Sarah', 'Chen', 'Elena', 'Kwame', 'Zoe', 'Liam', 
+  'Amara', 'James', 'Fatima', 'Sarah', 'Chen', 'Elena', 'Kwame', 'Zoe', 'Liam',
   'Sofia', 'Mateo', 'Anya', 'Yuki', 'Omar', 'Priya', 'Lucas', 'Isabella', 'Noah', 'Mia',
-  'Ethan', 'Ava', 'Mason', 'Charlotte', 'Logan', 'Amelia', 'Caleb', 'Harper', 'Ryan', 'Evelyn'
+  'Ethan', 'Ava', 'Mason', 'Charlotte', 'Logan', 'Amelia', 'Caleb', 'Harper', 'Ryan', 'Evelyn',
+  'Aiden', 'Layla', 'Jackson', 'Nora', 'Sebastian', 'Lily', 'Henry', 'Eleanor', 'Owen', 'Hannah',
+  'Gabriel', 'Stella', 'Carter', 'Hazel', 'Jayden', 'Aurora', 'Wyatt', 'Savannah', 'Dylan', 'Aria',
+  'Levi', 'Camila', 'Isaac', 'Penelope', 'Lincoln', 'Riley', 'Elijah', 'Zoey', 'Benjamin', 'Nadia',
+  'Kofi', 'Aisha', 'Tariq', 'Imani', 'Darius', 'Zara', 'Malik', 'Keisha', 'Jabari', 'Nia',
+  'Ravi', 'Meera', 'Arjun', 'Divya', 'Vikram', 'Ananya', 'Sanjay', 'Kavya', 'Rohan', 'Pooja',
+  'Wei', 'Mei', 'Jing', 'Hao', 'Xiu', 'Fang', 'Bao', 'Ling', 'Tao', 'Yan',
+  'Emre', 'Ayesha', 'Hassan', 'Leila', 'Karim', 'Yasmin', 'Tariq', 'Soraya', 'Nasir', 'Dina',
+  'Luca', 'Giulia', 'Marco', 'Valentina', 'Enzo', 'Chiara', 'Filippo', 'Francesca', 'Matteo', 'Alessia',
+  'Hugo', 'Camille', 'Louis', 'Manon', 'Antoine', 'Chloe', 'Pierre', 'Inès', 'Théo', 'Léa',
+  'Andile', 'Thandiwe', 'Sipho', 'Nomsa', 'Bongani', 'Zanele', 'Thabo', 'Lindiwe', 'Siyanda', 'Nokwanda',
+  'Diego', 'Valentina', 'Santiago', 'Catalina', 'Alejandro', 'Mariana', 'Emilio', 'Gabriela', 'Rodrigo', 'Daniela',
+  'Finn', 'Sienna', 'Oscar', 'Ivy', 'Jasper', 'Luna', 'Archie', 'Poppy', 'Theo', 'Rosie',
+  'Mikael', 'Astrid', 'Erik', 'Freya', 'Bjorn', 'Ingrid', 'Sven', 'Sigrid', 'Lars', 'Helga',
+  'Dimitri', 'Katerina', 'Nikolai', 'Anastasia', 'Ivan', 'Natasha', 'Alexei', 'Olga', 'Pavel', 'Irina',
+  'Seun', 'Temi', 'Chidi', 'Ngozi', 'Emeka', 'Adaeze', 'Uche', 'Chisom', 'Obinna', 'Amaka',
+  'Hiroshi', 'Yuki', 'Kenji', 'Sakura', 'Takeshi', 'Hana', 'Ryo', 'Aiko', 'Daiki', 'Natsuki',
+  'Jin', 'Soo', 'Hyun', 'Jae', 'Min', 'Eun', 'Seok', 'Yeon', 'Tae', 'Hye',
 ];
 
 export default function LandingPage() {
